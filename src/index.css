@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+
+
+
+.name {
+  background: #1f3a30;
+  margin: 5px;
+  height: 40px;
+  width: 40px;
+  flex-shrink: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.name h2 {
+  color: #6EE7B7;
+  margin: 0;
+  font-size: 18px;
+}
+
+.heading {
+  color: #6EE7B7;
+  margin: 0 10px;
+}
+.banner{
+  color: white;
+}
+.work{
+  color:#94a3bb
+
+}
